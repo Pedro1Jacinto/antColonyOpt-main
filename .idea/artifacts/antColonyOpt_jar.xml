@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="antColonyOpt:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/antColonyOpt_jar</output-path>
+    <root id="archive" name="antColonyOpt.jar">
+      <element id="module-output" name="antColonyOpt" />
+    </root>
+  </artifact>
+</component>
